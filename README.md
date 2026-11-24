@@ -1,5 +1,3 @@
-## WELCOME
-
 # About Me:
 💻 CSE Student, AI & ML Enthusiast. <br>🚀 Building projects, exploring tech & turning ideas into reality!<br>✨ Code • Create • Innovate • Repeat 
 
