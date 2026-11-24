@@ -1,6 +1,6 @@
-## Welcome!!
+## WELCOME
 
-# -> About Me:
+# About Me:
 💻 CSE Student	<br>🤖 AI & ML Enthusiast<br><br>🚀 Building projects, exploring tech & turning ideas into reality!<br>✨ Code • Create • Innovate • Repeat 
 
 
