@@ -11,7 +11,4 @@
 ![](https://streak-stats.demolab.com/?user=KarthavyaS&theme=dark&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KarthavyaS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=KarthavyaS&icon=4&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
